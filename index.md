@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Home
 ---
 
 <div style="display: flex; align-items: flex-start; flex-wrap: wrap; gap: 2rem; margin-top: 2rem;">
 
   <div style="flex: 1 1 400px; min-width: 280px;">
-    <h1 style="text-transform: lowercase; margin-bottom: 0.5em;">naz col</h1>
+    <h1 style="text-transform: lowercase; margin-bottom: 0.5em;">Naz Col</h1>
 
-    <p>Hello! I’m Naz, an engineer interested in systems, AI, and building things that make people’s lives easier.</p>
+    <p>Hi! I’m Naz, an engineer interested in systems, AI, and building things that make people’s lives easier.</p>
 
     <p>Currently, I’m exploring how to combine machine learning with practical tools for automation and interaction design.</p>
 
@@ -18,9 +17,20 @@ title: Home
       <li>Working on human-centered AI interfaces</li>
     </ul>
 
-    <p>Outside of coding, I enjoy running, music production, and good espresso ☕️.</p>
-
     <p>Find me on <a href="https://github.com/doganazcol">GitHub</a> or <a href="mailto:yourname@email.com">email</a>.</p>
+
+    <h2 style="text-transform: lowercase; margin-bottom: 0.5em;">research</h2>
+
+    <ul>
+      <li>
+        Building a novel <strong>prompt-based framework</strong> that enables LLM models to disguise each other's distinctive behavioral patterns without fine-tuning. 
+        <a href="https://github.com/lisadunlap/dementor" target="_blank">[Dementor]</a>
+      </li>
+      <li>
+        Extending an automated system to <strong>quantify qualitative differences in LLMs</strong>, developing algorithms to systematically analyse and compare their behaviours and responses. 
+        <a href="https://github.com/lisadunlap/VibeCheck" target="_blank">[VibeCheck]</a>
+      </li>
+    </ul>
   </div>
 
   <div style="flex-shrink: 0;">
@@ -28,4 +38,3 @@ title: Home
   </div>
 
 </div>
-
