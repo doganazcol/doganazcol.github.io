@@ -74,8 +74,8 @@ layout: page
 NVIDIA Inception company <a href="https://www.koer.ai/about" target="_blank">Koer AI</a>.
   </li>
   <li>
-    Worked in the AI team of Professor Dan Garcia’s research group at Berkeley, focusing on combinatorial and computational game theory. 
-    <strong>Trained neural networks</strong> for generating graphical and parameterizable game applications and <strong>developed algorithms</strong> to compress databases.
+    Worked in the AI team of Professor Dan Garcia’s research group at Berkeley, focusing on <strong>combinatorial and computational game theory</strong> 
+    Trained neural networks for generating graphical and parameterizable game applications and developed algorithms to compress databases.
   </li>
 </ul>
 <p>🤖 I also hold an <strong>international patent</strong> with my high school best friend for an electrochemical methanol bioindicator — thanks to Yasar University researchers who let two high-schoolers use their labs :D</p>
