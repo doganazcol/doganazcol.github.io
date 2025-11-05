@@ -58,7 +58,7 @@ layout: page
 </div>
 
 <!-- Everything below runs full-width again (normal flow) -->
-<h2 style="text-transform: lowercase; margin: 2rem 0 .5rem;">research 🤖</h2>
+<h2 style="text-transform: lowercase; margin: 2rem 0 .5rem;">research </h2>
 
 <ul>
   <li>
@@ -70,11 +70,12 @@ layout: page
     <a href="https://github.com/lisadunlap/VibeCheck" target="_blank">[VibeCheck]</a>
   </li>
   <li>
-    <strong>Building Project AEI: Emotional Intuition</strong> — research centered on emotional intelligence in conversational AI systems, focusing on modeling human affective patterns and empathy-driven responses with 
-    <strong>NVIDIA Inception company KOER AI</strong>.
+    Building Project AEI: Emotional Intuition — worked on <strong>emotional intelligence in conversational AI systems</strong>, focusing on modeling human affective patterns and empathy-driven responses with 
+NVIDIA Inception company <a href="https://www.koer.ai/about" target="_blank">Koer AI</a>.
   </li>
   <li>
-    Worked in the AI team of <strong>Professor Dan Garcia’s research group</strong> at UC Berkeley, focusing on combinatorial and computational game theory. 
+    Worked in the AI team of Professor Dan Garcia’s research group at Berkeley, focusing on combinatorial and computational game theory. 
     <strong>Trained neural networks</strong> for generating graphical and parameterizable game applications and <strong>developed algorithms</strong> to compress databases.
   </li>
 </ul>
+<p>🤖 I also hold an <strong>international patent</strong> with my high school best friend for an electrochemical methanol bioindicator — thanks to Yasar University researchers who let two high-schoolers use their labs :D</p>
