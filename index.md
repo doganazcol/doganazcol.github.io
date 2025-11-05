@@ -2,14 +2,15 @@
 layout: page
 ---
 
-<div style="position: relative; margin-top: 2rem;">
+<div style="margin-top: 2rem;">
 
-  <!-- 🖼️ Photo on the TOP RIGHT -->
+  <!-- 🖼️ Photo on the TOP RIGHT (no overlap) -->
   <img src="/assets/IMG_0425.JPG" alt="Naz Col portrait"
     style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;
-           position: absolute; top: 0; right: 0; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+           display: block; margin-left: auto; margin-bottom: 1.5rem;
+           box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 
-  <!-- 🧠 Text content on the LEFT -->
+  <!-- 🧠 Text content -->
   <div style="max-width: 700px;">
     <h1 style="text-transform: lowercase; margin-bottom: 0.5em;">Naz Col</h1>
 
@@ -20,9 +21,11 @@ layout: page
     <a href="https://sky.cs.berkeley.edu/" target="_blank">Sky Computing Lab (SkyLab)</a>. 
     I’m interested in large language model behaviour and characteristics, as well as optimizing machine-learning systems for specific domains.</p>
 
+    <p>At Berkeley, I am a senior member of <a href="https://ml.studentorg.berkeley.edu/">Machine Learning at Berkeley</a> where we collaborate accross research labs and leading industry companies.</p>
+
     <p>Previously, I was part of the <strong>Web Defense, Knowledge & AI</strong> team under <strong>Microsoft Security</strong>, 
-    where I worked on building, optimizing, and deploying <strong>Graph Neural Networks (GNNs)</strong> — 
-    along with our side-project of restoring our cubicle with string lights from arcade machines ✨.</p>
+    where I worked on building, optimizing, and deploying <strong>Graph Neural Networks (GNNs)</strong>
+    [along with our side-project of restoring our cubicle with string lights from arcade machines ✨.]</p>
 
     <p>Find me on <a href="https://github.com/doganazcol">GitHub</a> or 
     <a href="mailto:doganazcol@berkeley.edu">email</a>.</p>
@@ -51,6 +54,6 @@ layout: page
       </li>
     </ul>
 
-    <p>I also hold an <strong>international patent</strong> with my high school best friend for an electrochemical methanol bioindicator — thanks to Yasar University researchers who let two high-schoolers use their labs :D</p>
+    <p>🤖 I also hold an <strong>international patent</strong> with my high school best friend for an electrochemical methanol bioindicator — thanks to Yasar University researchers who let two high-schoolers use their labs :D</p>
   </div>
 </div>
