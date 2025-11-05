@@ -9,16 +9,18 @@ layout: page
 
     <p>Hi! I’m Naz — a 4th year undergraduate at UC Berkeley and an AI/ML Researcher at the 
     <a href="https://bair.berkeley.edu/" target="_blank">Berkeley Artificial Intelligence Research (BAIR)</a>, 
-    advised by Trevor Darrell and Joey Gonzalez in the 
+    advised by <a href="https://people.eecs.berkeley.edu/~trevor/" target="_blank"> Trevor Darrell and <a href="https://joeygonzalez.com/" target="_blank"> Joey Gonzalez in the 
     <a href="https://sky.cs.berkeley.edu/" target="_blank">Sky Computing Lab (SkyLab)</a>. 
     I’m interested in large language model behaviour and characteristics, as well as optimizing machine-learning systems for specific domains.</p>
 
-    <p>Previously, I was part of the <strong>Web Defense, Knowledge & AI</strong> team under Microsoft Security, 
+
+
+    <p>Previously, I was part of the Web Defense, Knowledge & AI team under <strong>Microsoft Security</strong>, 
     where I worked on building, optimizing, and deploying <strong>Graph Neural Networks (GNNs)</strong> 
     — along with our side-project of restoring our cubicle with string lights from arcade machines ✨.</p>
 
     <p>Find me on <a href="https://github.com/doganazcol">GitHub</a> or 
-    <a href="mailto:yourname@email.com">email</a>.</p>
+    <a href="mailto:doganazcol@berkeley.edu">email</a>.</p>
 
     <h2 style="text-transform: lowercase; margin-bottom: 0.5em;">research</h2>
 
@@ -46,6 +48,8 @@ layout: page
         <strong>Trained neural networks</strong> for generating graphical and parameterizable game applications 
         and <strong>developed algorithms</strong> to compress databases.
       </li>
+
+      <p>I also hold an <strong>international patent</strong> with my high school best friend for an electrochemical methanol bioindicator thanks to Yasar University researchers that let 2 high-schoolers use their labs :D</p>
     </ul>
   </div>
 
