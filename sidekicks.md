@@ -4,8 +4,6 @@ title: sidekicks
 permalink: /sidekicks/
 ---
 
-<h2 style="text-transform: lowercase; margin-bottom: 0.5em;">sidekicks</h2>
-
 <ul>
   <li>
     Me and my friends are casually building <strong>BerkeleyWork</strong> — a platform where Berkeley students can find classmates based on compatible work habits.  
