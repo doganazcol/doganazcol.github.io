@@ -39,7 +39,7 @@ layout: page
       advised by <a href="https://people.eecs.berkeley.edu/~trevor/" target="_blank">Trevor Darrell</a> and 
       <a href="https://joeygonzalez.com/" target="_blank">Joey Gonzalez</a> in the 
       <a href="https://sky.cs.berkeley.edu/" target="_blank">Sky Computing Lab (SkyLab)</a>. 
-      I’m interested in large language model (LLM) behaviour and characteristics, as well as optimizing machine-learning systems for specialzed domains.</p>
+      I’m interested in large language model (LLM) behaviour and characteristics, as well as optimizing machine-learning systems for specialized domains.</p>
 
     <p>Previously, I was part of the <strong>Web Defense, Knowledge & AI</strong> team under <a href="https://www.microsoft.com/en-us/security">Microsoft Security</a>, 
       where I worked on building, optimizing, and deploying <strong>Graph Neural Networks (GNNs)</strong> — 
