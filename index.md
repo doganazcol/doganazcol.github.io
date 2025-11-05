@@ -1,5 +1,14 @@
 ---
 layout: page
+---
+
+<!-- 🌐 NAV BAR CONFIG (make sure in _config.yml) -->
+# Add this at the bottom of your _config.yml file
+# header_pages:
+#   - index.md
+#   - sidekick.md
+
+<div style="margin-top: 2rem; display: flex; flex-direction: column; align-items: flex-start;">
 
 <div style="margin-top: 2rem; display: flex; flex-direction: column; align-items: flex-start;">
 
@@ -24,6 +33,8 @@ layout: page
   <p>Previously, I was part of the <strong>Web Defense, Knowledge & AI</strong> team under <strong>Microsoft Security</strong>, 
   where I worked on building, optimizing, and deploying <strong>Graph Neural Networks (GNNs)</strong> — 
   along with our side-project of restoring our cubicle with string lights from arcade machines ✨.</p>
+
+   <p>At Berkeley, I am a senior member of <a href="https://ml.studentorg.berkeley.edu/">Machine Learning at Berkeley</a> where we collaborate accross research labs and leading industry companies.</p>
 
   <p>Find me on <a href="https://github.com/doganazcol">GitHub</a> or 
   <a href="mailto:doganazcol@berkeley.edu">email</a>.</p>
