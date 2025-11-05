@@ -11,6 +11,9 @@ permalink: /sidekicks/
     You can check it out (and give us honest feedback!) here:  
     <a href="https://www.berkeleywork.com/" target="_blank">berkeleywork.com</a>
   </li>
+  <li>
+    While I was interning at SF based  <a href="https://fal.ai/">fal.ai</a> (now a Unicorn), along with my fellow intern, we built a tool that curates 2M+ 8K & 16K high-definition images over our Spring Break 🏝️ and named it "Cancun". The vision was (hopefully) solving the bottleneck of finding quilty image data for Vision ML models.
+  </li>
 
   <li>
     Contributed to publishing a fun book called <strong>"A Guide for Future Founders"</strong>, where we analyzed common patterns of successful startups in Silicon Valley with our co-author <strong>Luka Kowalski</strong> (currently VP at Oracle).  
