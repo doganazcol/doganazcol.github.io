@@ -54,7 +54,7 @@ layout: page
   </div>
 
   <div style="flex-shrink: 0;">
-    <img src="/assets/images/me.jpg" alt="Naz Col portrait" 
+    <img src="/assets/IMG_0425.JPG" alt="Naz Col portrait" 
     style="width: 220px; height: 220px; border-radius: 50%; object-fit: cover; margin-top: 1rem;">
   </div>
 
