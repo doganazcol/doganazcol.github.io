@@ -2,16 +2,15 @@
 layout: page
 ---
 
-<div style="display: flex; align-items: flex-start; flex-wrap: wrap; gap: 2rem; margin-top: 2rem;">
+<div style="position: relative; margin-top: 2rem;">
 
-  <!-- 🖼️ Photo on the LEFT -->
-  <div style="flex-shrink: 0;">
-    <img src="/assets/IMG_0425.JPG" alt="Naz Col portrait"
-      style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-top: 0.5rem; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-  </div>
+  <!-- 🖼️ Photo on the TOP RIGHT -->
+  <img src="/assets/IMG_0425.JPG" alt="Naz Col portrait"
+    style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;
+           position: absolute; top: 0; right: 0; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 
-  <!-- 🧠 Text on the RIGHT -->
-  <div style="flex: 1 1 400px; min-width: 280px;">
+  <!-- 🧠 Text content on the LEFT -->
+  <div style="max-width: 700px;">
     <h1 style="text-transform: lowercase; margin-bottom: 0.5em;">Naz Col</h1>
 
     <p>Hi! I’m Naz — a 4th year undergraduate at UC Berkeley and an AI/ML Researcher at the 
@@ -54,5 +53,4 @@ layout: page
 
     <p>I also hold an <strong>international patent</strong> with my high school best friend for an electrochemical methanol bioindicator — thanks to Yasar University researchers who let two high-schoolers use their labs :D</p>
   </div>
-
 </div>
