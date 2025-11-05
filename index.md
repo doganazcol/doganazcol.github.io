@@ -12,7 +12,7 @@ layout: page
   <!-- 🧠 TEXT CONTENT LEFT -->
   <div style="max-width: 700px;">
 
-  <h1 style="text-transform: lowercase; margin-bottom: 0.5em;">Naz Col 🤖</h1>
+  <h1 style="text-transform: lowercase; margin-bottom: 0.5em;">Naz Col</h1>
 
   <p>Hi! I’m Naz — a 4th year undergraduate at UC Berkeley and an AI/ML Researcher at the 
   <a href="https://bair.berkeley.edu/" target="_blank">Berkeley Artificial Intelligence Research (BAIR)</a>, 
