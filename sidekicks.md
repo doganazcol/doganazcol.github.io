@@ -27,7 +27,7 @@ permalink: /sidekicks/
   </li>
 
   <li>
-    🤖 I'm a proud alumna of <strong>2x Hall of Fame Finalist,</strong> <a href="https://frc6429com.wordpress.com/" target="_blank">FRC Team 6429 - 4th Dimension </a>. Hall of Fame Finalist is an award given to 2 teams among ~3,700 around the world that shows the greatest impact  within the FIRST community, in its own community, and beyond. 6429 is known to be the first FRC robotics team in the Aegan Region and keep doing amazing job till this day!
+    🤖 I'm a proud alumna of <strong>2x Hall of Fame Finalist,</strong> <a href="https://frc6429com.wordpress.com/" target="_blank">FRC Team 6429 - 4th Dimension.</a> Hall of Fame Finalist is an award given to 2 teams among ~3,700 around the world that shows the greatest impact  within the FIRST community, in its own community, and beyond. 6429 is known to be the first FRC robotics team in the Aegan Region and keep doing amazing job till this day!
   </li>
   
 </ul>
